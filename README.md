@@ -1,8 +1,8 @@
 # wi-unity-game — Advanced Game Development Portfolio
 
 ## Student Information
-- **Name** : (Your Name)
-- **NIM** : (Your NIM)
+- **Name** : (Alexandro Divia GO)
+- **NIM** : (2702260142)
 - **Course** : GAME6091001 – Advanced Game Development
 - **Institution** : Bina Nusantara University
 
